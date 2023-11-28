@@ -2,7 +2,7 @@
   "name": "lpjesus",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://apuelloc0.github.io/landingPageJesus2/build",
+  "homepage": "https://apuelloc0.github.io/lpJesus/build",
   "type": "module",
   "scripts": {
     "dev": "vite",
